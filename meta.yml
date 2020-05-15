@@ -1,0 +1,6 @@
+name: base_web_python_36
+title: 基础镜像 WEB Python 3.6
+desc: 基础镜像 WEB Python 3.6
+tags:
+  - web
+  - python
